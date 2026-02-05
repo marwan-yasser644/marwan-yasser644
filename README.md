@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Marwan
 
-<!--
-**marwan-yasser644/marwan-yasser644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Student  
+🤖 Machine Learning & Data Science  
+🐍 Python Developer  
 
-Here are some ideas to get you started:
+### 💼 Connect with Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/marawan-yasser-3005742a0/
+- 🐙 GitHub: https://github.com/marwan-yasser644
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 Projects
+- Smart Excel Cleaner  
+- Heart Disease Prediction  
+- Smartphone Sales Predictor  
+- Heart_Disease_Prediction_Project  
