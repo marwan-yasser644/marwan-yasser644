@@ -14,4 +14,3 @@
 - Smart Excel Cleaner  
 - Heart Disease Prediction  
 - Smartphone Sales Predictor  
-- Heart_Disease_Prediction_Project  
