@@ -13,4 +13,6 @@
 ### 🔥 Projects
 - Smart Excel Cleaner  
 - Heart Disease Prediction  
-- Smartphone Sales Predictor  
+- Smartphone Sales Predictor
+- GeoInvest-MVP
+
