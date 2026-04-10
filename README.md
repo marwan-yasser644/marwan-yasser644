@@ -6,7 +6,6 @@
 
 ### 💼 Connect with Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/marawan-yasser-3005742a0/
-- 🐙 GitHub: https://github.com/marwan-yasser644
 
 ---
 
