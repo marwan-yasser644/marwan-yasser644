@@ -2,7 +2,7 @@
 
 🎓 AI Student  
 🤖 Machine Learning & Data Science  
-🐍 Python Developer  
+🐍 AI Developer  
 
 ### 💼 Connect with Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/marawan-yasser-3005742a0/
