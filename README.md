@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Marwan
 
 🎓 AI Student  
-🤖 Machine Learning & Data Science  
+🤖 AI Engineer & Data Science  
 🐍 AI Developer  
 
 ### 💼 Connect with Me
