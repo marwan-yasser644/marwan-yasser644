@@ -10,7 +10,7 @@
 ---
 
 ### 🔥 Projects
-- Smart Excel Cleaner  
+- Agri-ETL  
 - smart_attendance  
 - Smartphone Sales Predictor
 - GeoInvest-MVP
